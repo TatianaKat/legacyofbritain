@@ -1,3 +1,3 @@
-# legacyofbritain
+# Legacy of Britain Mod ALPHA
 
-Test commit.
+This mod is a work in progress and everything is subject to change. 
