@@ -31,29 +31,29 @@ set_convoys = 5
 		}
 		
 		social_democratic = {
-			popularity = 0
+			popularity = 10
 		}
 		
 		market_liberalism = { 
-			popularity = 0
+			popularity = 10
 		}
 		social_conservatism = { 
-			popularity = 10
+			popularity = 50
 		}
 
 		authoritarian_government = {
-			popularity = 15
+			popularity = 5
 		}
 		
 		paternal_autocrat = {
-			popularity = 15
+			popularity = 5
 		}
 		
 		radical_nationalism = { 
-			popularity = 50
+			popularity = 10
 		}
 		
-	ruling_party = radical_nationalism
+	ruling_party = social_conservatism_subtype
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no		
@@ -65,6 +65,16 @@ create_country_leader = {
 	picture = "Portrait_Croatia_Ante_Pavelic.dds"
 	expire = "1965.1.1"
 	ideology = radical_nationalism_subtype
+	traits = {
+		#
+	}
+}
+create_country_leader = {
+	name = "Stjepan Radić"
+	desc = "STJEPAN_RADIC_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = social_conservatism_subtype
 	traits = {
 		#
 	}
