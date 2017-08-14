@@ -20,7 +20,7 @@ set_technology = {
 
 set_convoys = 5
 
-
+set_politics = {
 	parties = {
 		communism = { 
 			popularity = 5
@@ -58,6 +58,7 @@ set_convoys = 5
 	election_frequency = 48
 	elections_allowed = no		
 	}
+}
 
 create_country_leader = {
 	name = "Ante Pavelic"
