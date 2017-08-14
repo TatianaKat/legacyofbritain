@@ -35,7 +35,7 @@
  paternal_autocrat_subtype_desc:0 "The Paternal Autocracy is a style of rule from the last century, where a single leader controls a majority of state affairs. Often this person is a King, but they could also be a military dictator or a religious figure. Politically, they are very diverse but often embrace traditional values."
  radical_nationalist_subtype_desc:0 "A strongly centralized regime, with a focus on cultural and ethnical identity, at the expense of others. Often it is highly autocratic and applies totalitarian rule to control its citizens, and relies heavily on depicting 'enemies' as undeseriables at best, threats to the nations safety at worst."
 
- 
+ #British North America
  BNA_communism_party:0 "CP"
  BNA_communism_party_long:0 "Communist Party"
  BNA_radical_socialism_party:0 "RSP"
@@ -53,6 +53,7 @@
  BNA_radical_nationalist_party:0 "RNP"
  BNA_radical_nationalist_party_long:0 "Radical Nationalist Party" 
  
+ #Republic of Louisiana
  ROL_communism_party:0 "LCP"
  ROL_communism_party_long:0 "Louisiana Communist Party"
  ROL_radical_socialism_party:0 "LSP"
@@ -70,7 +71,7 @@
  ROL_radical_nationalist_party:0 "IFP"
  ROL_radical_nationalist_party_long:0 "Intérêts Français Parti"
  
- 
+ #Germany
  GER_communism_party:0 "CP"
  GER_communism_party_long:0 "Communist Party"
  GER_radical_socialism_party:0 "RSP"
@@ -88,6 +89,7 @@
  GER_radical_nationalist_party:0 "RNP"
  GER_radical_nationalist_party_long:0 "Radical Nationalist Party" 
  
+ #England
  ENG_communism_party:0 "CP"
  ENG_communism_party_long:0 "Communist Party"
  ENG_radical_socialism_party:0 "RSP"
@@ -105,6 +107,7 @@
  ENG_radical_nationalist_party:0 "RNP"
  ENG_radical_nationalist_party_long:0 "Radical Nationalist Party" 
  
+ #France
  FRA_communism_party:0 "CP"
  FRA_communism_party_long:0 "Communist Party"
  FRA_radical_socialism_party:0 "RSP"
@@ -122,6 +125,7 @@
  FRA_radical_nationalist_party:0 "RNP"
  FRA_radical_nationalist_party_long:0 "Radical Nationalist Party"
  
+ #Spain
  SPR_communism_party:0 "CP"
  SPR_communism_party_long:0 "Communist Party"
  SPR_radical_socialism_party:0 "RSP"
@@ -139,6 +143,7 @@
  SPR_radical_nationalist_party:0 "RNP"
  SPR_radical_nationalist_party_long:0 "Radical Nationalist Party"
  
+ #Ireland
  IRE_communism_party:0 "CP"
  IRE_communism_party_long:0 "Communist Party"
  IRE_radical_socialism_party:0 "RSP"
@@ -156,6 +161,7 @@
  IRE_radical_nationalist_party:0 "RNP"
  IRE_radical_nationalist_party_long:0 "Radical Nationalist Party"
  
+ #Italy
  ITA_communism_party:0 "CP"
  ITA_communism_party_long:0 "Communist Party"
  ITA_radical_socialism_party:0 "RSP"
@@ -173,6 +179,7 @@
  ITA_radical_nationalist_party:0 "RNP"
  ITA_radical_nationalist_party_long:0 "Radical Nationalist Party"
  
+ #Japan
  JAP_communism_party:0 "CP"
  JAP_communism_party_long:0 "Communist Party"
  JAP_radical_socialism_party:0 "RSP"
@@ -190,6 +197,25 @@
  JAP_radical_nationalist_party:0 "RNP"
  JAP_radical_nationalist_party_long:0 "Radical Nationalist Party"
 
+ #Mexico
+ MEX_communism_party:0 "CP"
+ MEX_communism_party_long:0 "Communist Party"
+ MEX_radical_socialism_party:0 "RSP"
+ MEX_radical_socialism_party_long:0 "Radical Socialist Party"
+ MEX_social_democratic_party:0 "SDP"
+ MEX_social_democratic_party_long:0 "Social Democratic Party"
+ MEX_market_liberalism_party:0 "MLP"
+ MEX_market_liberalism_party_long:0 "Market Liberal Party"
+ MEX_social_conservatism_party:0 "SCP"
+ MEX_social_conservatism_party_long:0 "Social Conservative Party"
+ MEX_authoritarian_government_party:0 "CG"
+ MEX_authoritarian_government_party_long:0 "Colonial Government"
+ MEX_paternal_autocrat_party:0 "PAP"
+ MEX_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
+ MEX_radical_nationalist_party:0 "RNP"
+ MEX_radical_nationalist_party_long:0 "Radical Nationalist Party"
+ 
+ 
  POL_fascism_party:0 "ONR-Falanga"
  POL_fascism_party_long:0 "Oboz Narodowo Radykalny-Falanga"
  POL_communism_party:0 "Polish Socialist Party"
