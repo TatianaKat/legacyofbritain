@@ -215,6 +215,43 @@
  MEX_radical_nationalist_party:0 "RNP"
  MEX_radical_nationalist_party_long:0 "Radical Nationalist Party"
  
+ #Baltic States
+ BAL_communism_party:0 "CP"
+ BAL_communism_party_long:0 "Communist Party"
+ BAL_radical_socialism_party:0 "RSP"
+ BAL_radical_socialism_party_long:0 "Radical Socialist Party"
+ BAL_social_democratic_party:0 "SDP"
+ BAL_social_democratic_party_long:0 "Social Democratic Party"
+ BAL_market_liberalism_party:0 "MLP"
+ BAL_market_liberalism_party_long:0 "Market Liberal Party"
+ BAL_social_conservatism_party:0 "SCP"
+ BAL_social_conservatism_party_long:0 "Social Conservative Party"
+ BAL_authoritarian_government_party:0 "CG"
+ BAL_authoritarian_government_party_long:0 "Colonial Government"
+ BAL_paternal_autocrat_party:0 "PAP"
+ BAL_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
+ BAL_radical_nationalist_party:0 "RNP"
+ BAL_radical_nationalist_party_long:0 "Radical Nationalist Party"
+ 
+ #Croatia
+ CRO_communism_party:0 "CP"
+ CRO_communism_party_long:0 "Communist Party"
+ CRO_radical_socialism_party:0 "RSP"
+ CRO_radical_socialism_party_long:0 "Radical Socialist Party"
+ CRO_social_democratic_party:0 "SDP"
+ CRO_social_democratic_party_long:0 "Social Democratic Party"
+ CRO_market_liberalism_party:0 "MLP"
+ CRO_market_liberalism_party_long:0 "Market Liberal Party"
+ CRO_social_conservatism_party:0 "SCP"
+ CRO_social_conservatism_party_long:0 "Social Conservative Party"
+ CRO_authoritarian_government_party:0 "CG"
+ CRO_authoritarian_government_party_long:0 "Colonial Government"
+ CRO_paternal_autocrat_party:0 "PAP"
+ CRO_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
+ CRO_radical_nationalist_party:0 "RNP"
+ CRO_radical_nationalist_party_long:0 "Radical Nationalist Party"
+ 
+ 
  
  POL_fascism_party:0 "ONR-Falanga"
  POL_fascism_party_long:0 "Oboz Narodowo Radykalny-Falanga"
