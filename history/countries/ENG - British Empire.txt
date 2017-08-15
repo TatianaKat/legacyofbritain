@@ -162,10 +162,32 @@ create_country_leader = {
 	}
 }
 
+#create_country_leader = {
+#	name = "George VI"
+#	desc = "POLITICS_GEORGE_VI_DESC"
+#	picture = "gfx/leaders/PAL/Portrait_Britain_George_VI.dds"
+#	ideology = social_conservatism_subtype
+#	traits = {
+#     
+#	}
+#}
+
+
+#create_country_leader = {
+#			name = "Edward VIII"
+#			desc = "POLITICS_EDWARD_EDWARD_DESC"
+#			picture = "Portrait_Britain_Edward_VIII.dds"
+#			expire = "1965.1.1"
+#			ideology = social_conservatism_subtype
+#			traits = {
+#			
+#			}
+#		}
+
 create_country_leader = {
-			name = "Edward VIII"
-			desc = "POLITICS_EDWARD_EDWARD_DESC"
-			picture = "Portrait_Britain_Edward_VIII.dds"
+			name = "George V"
+			desc = "POLITICS_GEORGE_V_DESC"
+			picture = ""
 			expire = "1965.1.1"
 			ideology = social_conservatism_subtype
 			traits = {
