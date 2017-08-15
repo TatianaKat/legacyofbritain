@@ -180,7 +180,7 @@ create_country_leader = {
 	expire = "1965.1.1"
 	ideology = authoritarian_government_subtype
 	traits = {
-		#traits here need to also be added to events britain.9 and britain.10. Don't ask why.
+
 	}
 }
 

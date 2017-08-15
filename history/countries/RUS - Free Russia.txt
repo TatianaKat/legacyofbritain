@@ -27,7 +27,7 @@ set_politics = {
 			popularity = 10
 		}
 		social_conservatism = { 
-			popularity = 15
+			popularity = 30
 		}
 
 		authoritarian_government = {
@@ -35,16 +35,16 @@ set_politics = {
 		}
 		
 		paternal_autocrat = {
-			popularity = 45
+			popularity = 20
 		}
 		
 		radical_nationalism = { 
-			popularity = 10
+			popularity = 20
 		}
 		
 	}
 	
-	ruling_party = paternal_autocrat
+	ruling_party = social_conservatism
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
@@ -52,21 +52,26 @@ set_politics = {
 
 set_convoys = 5
 
-#Victor Emmanuel III of Italy after 39
-# create_country_leader = {
-#	name = "King Zog"
-#	desc = "POLITICS_KING_ZOG_DESC"
-#	picture = "Portrait_Albania_King_Zog.dds"
-#	expire = "1965.1.1"
-#	ideology = despotism
-#	traits = {
-		#
-#	}
-#}
+create_country_leader = {
+	name = "Konstantin Rodzaevsky"
+	desc = "POLITICS_KONSTANTIN_RODZAEVSKY_DESC"
+	picture = "Portrait_Soviet_Konstantin_Rodzaevsky.dds"
+	expire = "1953.3.1"
+	ideology = radical_nationalism_subtype
+	traits = {
+		
+	}
+}
 
-# create_field_marshal = {
-#	name = "Xhemal Aranitasi"
-#	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
-#	skill = 2
-#}
+create_country_leader = {
+	name = "Alexander Fyodorovich Kerensky"
+	desc = "POLITICS_ALEXANDER_FYODOROVICH_KERENSKY_DESC"
+	picture = "Portrait_Soviet_Generic_1.dds"
+	expire = "1953.3.1"
+	ideology = social_democratic_subtype
+	traits = {
+		
+	}
+}
+
 
