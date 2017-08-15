@@ -806,6 +806,8 @@
  IRQ_democratic_ADJ:0 "Iraqi"
  IRQ_neutrality_ADJ:0 "Iraqi"
  IRQ_communism_ADJ:0 "Iraqi"
+ JAP_authoritarian_government:0 "Imperial Japan"
+ JAP_authoritarian_government_DEF:0 "Imperial Japan" 
  JAP_fascism:0 "Japan"
  JAP_fascism_DEF:0 "Japan"
  JAP_democratic:0 "State of Japan"
