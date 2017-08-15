@@ -55,9 +55,9 @@ ideologies = {
 
 	}
 	
-	social_democrat = {
+	social_democratic = {
 		types = {
-			social_democrat_subtype = {}
+			social_democratic_subtype = {}
 		}
 		dynamic_faction_names = {
 			"FACTION_NAME_SOCIAL_DEMOCRAT_1"

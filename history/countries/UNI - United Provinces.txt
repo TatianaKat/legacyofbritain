@@ -74,7 +74,7 @@ create_country_leader = {
 	expire = "1965.1.1"
 	ideology = social_conservatism_subtype
 	traits = {
-		#
+	
 	}
 }
 
@@ -85,7 +85,7 @@ create_country_leader = {
 	expire = "1965.1.1"
 	ideology = radical_nationalism_subtype
 	traits = {
-		#
+		
 	}
 }
 
@@ -96,7 +96,7 @@ create_country_leader = {
 	expire = "1965.1.1"
 	ideology = communism_subtype
 	traits = {
-		#
+		
 	}
 }
 
@@ -107,7 +107,7 @@ create_country_leader = {
 	expire = "1965.1.1"
 	ideology = market_liberalism_subtype
 	traits = {
-		#
+		
 	}
 }
 
@@ -118,7 +118,7 @@ create_country_leader = {
 	expire = "1965.1.1"
 	ideology = authoritarian_government_subtype
 	traits = {
-		#
+		
 	}
 }
 
