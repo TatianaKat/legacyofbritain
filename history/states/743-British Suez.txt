@@ -1,0 +1,26 @@
+state={
+	id=743
+	name="STATE_743"
+	state_category = rural
+	history={
+		owner = ENG
+		buildings = {
+			infrastructure = 8
+			industrial_complex = 3
+			air_base = 8
+                        naval_base = 10
+
+		}
+
+		add_core_of = EGY
+		add_core_of = BAM
+
+	}
+
+	provinces={
+		1155 4073 9947 12049 
+	}
+
+	manpower=658659
+	buildings_max_level_factor=1.000
+}
