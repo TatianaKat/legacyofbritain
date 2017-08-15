@@ -50,4 +50,37 @@ set_politics = {
 	elections_allowed = no
 }
 
+create_country_leader = {
+	name = "Harold MacMichael"
+	desc = "POLITICS_HAROLD_MACMICHAEL_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = authoritarian_government_subtype
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Abdulaziz Ibn Saud"
+	desc = "POLITICS_ABDULAZIZ_DESC"
+	picture = "Portrait_Saudi_Arabia_Abdulazis_Ibn_Saud.dds"
+	expire = "1965.1.1"
+	ideology = radical_nationalism_subtype
+	traits = {
+	
+	}
+}
+
+create_country_leader = {
+	name = "Ghazi I"
+	desc = "POLITICS_GHAZI_I_DESC"
+	picture = "GFX_portrait_iraq_ghazi"
+	expire = "1965.1.1"
+	ideology = paternal_autocrat_subtype
+	traits = {
+		
+	}
+}
+
 set_convoys = 100
