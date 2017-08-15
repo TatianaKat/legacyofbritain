@@ -1,32 +1,25 @@
 
 state={
-	id=293
-	name="STATE_293"
-	manpower = 2489500
+	id=455
+	name="STATE_455"
+	manpower = 932000
 	
 	state_category = rural
-	
-	resources={
-		oil=1
-	}
+
 	history={
 		owner = BAM
 		buildings = {
 			infrastructure = 3
-			arms_factory = 1
 			industrial_complex = 1
-			10840 = {
-				naval_base = 1
-			}
 		}
 		victory_points = {
-			10840 3 
+			7151 1 
 		}
 		add_core_of = BAM
-		add_core_of = YEM
+		add_core_of = JOR
 	}
 
 	provinces={
-		1920 1973 4924 10752 10840 
+		1544 4017 4115 4440 4562 4574 4591 4603 7001 7151 7170 10089 11976 
 	}
 }

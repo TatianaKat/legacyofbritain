@@ -11,7 +11,7 @@ state={
 	}
 
 	history={
-		owner = ENG
+		owner = BAM
 		victory_points = {
 			2097 5
 		}
@@ -27,6 +27,7 @@ state={
 				naval_base = 1
 			}
 		}
+		add_core_of = BAM
 		add_core_of = IRQ
 	}
 

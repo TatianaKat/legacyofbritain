@@ -25,6 +25,9 @@
  BAL_radical_nationalism_ADJ:0 "Baltic "
  BAL_radical_nationalism_DEF:0 "The Baltic States"
  
+ BAM_authoritarian_government:0 "British Arabian Mandate"
+ BAM_authoritarian_government_DEF:0 "The British Arabian Mandate" 
+ 
  BNA_communism:0 "Union of North America"
  BNA_communism_ADJ:0 "American "
  BNA_communism_DEF:0 "The Union of North America"

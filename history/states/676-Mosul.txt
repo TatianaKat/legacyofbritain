@@ -11,13 +11,14 @@ state={
 
 
 	history={
-		owner = ENG
+		owner = BAM
 		buildings = {
 			infrastructure = 3
 		}
 		victory_points = {
 			10106 1 
 		}
+		add_core_of = BAM
 		add_core_of = IRQ
 	}
 	
