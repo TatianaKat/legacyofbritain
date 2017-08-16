@@ -434,13 +434,6 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "George Giffard"
-	picture = "Portrait_Britain_George_Giffard.dds"
-	traits = {  }
-	skill = 3
-}
-
-create_corps_commander = {
 	name = "Harold Alexander"
 	picture = "Portrait_Britain_Harold_Alexander.dds"
 	traits = {  }
@@ -465,13 +458,6 @@ create_corps_commander = {
 	name = "Arthur Percival"
 		picture = "Portrait_Britain_Arthur_Percival.dds"
 	traits = {   }
-	skill = 2
-}
-
-create_corps_commander = {
-	name = "Henry Pownall"
-	picture = "Portrait_Britain_Henry_Pownall.dds"
-	traits = {  trickster }
 	skill = 2
 }
 
@@ -567,12 +553,6 @@ create_navy_leader = {
 	skill = 4
 }
 
-create_navy_leader = {
-	name = "Bernard Rawlings"
-		picture = "Portrait_Britain_Bernard_Rawlings.dds"
-	traits = {  }
-	skill = 1
-}
 
 create_navy_leader = {
 	name = "John Cunningham"
@@ -595,12 +575,6 @@ create_navy_leader = {
 	skill = 3
 }
 
-create_navy_leader = {
-	name = "Arthur Power"
-		picture = "Portrait_Britain_Arthur_Power.dds"
-	traits = {  }
-	skill = 2
-}
 
 ### Ship Variants ###
 
