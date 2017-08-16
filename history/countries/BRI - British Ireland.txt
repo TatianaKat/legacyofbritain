@@ -1,0 +1,84 @@
+﻿capital = 113
+
+oob = "IRE_1936"
+
+set_research_slots = 3
+
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+}
+
+set_convoys = 10
+
+
+set_politics = {
+
+	parties = {
+		communism = { 
+			popularity = 0
+		}
+
+		radical_socialism = {
+			popularity = 0
+		}
+		
+		social_democratic = {
+			popularity = 5
+		}
+		
+		market_liberalism = { 
+			popularity = 15
+		}
+		social_conservatism = { 
+			popularity = 25
+		}
+
+		authoritarian_government = {
+			popularity = 55
+		}
+		
+		paternal_autocrat = {
+			popularity = 0
+		}
+		
+		radical_nationalism = { 
+			popularity = 0
+		}
+		
+	}
+	
+	ruling_party = authoritarian_government
+	last_election = "1933.1.24"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+#create_country_leader = {
+#	name = "James Hamilton"
+#	desc = "POLITICS_JAMES_HAMILTON_DESC"
+#	picture = ""
+#	expire = "1965.1.1"
+#	ideology = authoritarian_government
+#	traits = {
+#		#
+#	}
+#}
+
+create_country_leader = {
+	name = "Edmund F.A.H."
+	desc = "POLITICS_EDMUND_FITZALAN_DESC"
+	picture = "."
+	expire = "1965.1.1"
+	ideology = authoritarian_government
+	traits = {
+		#
+	}
+}
+
+create_corps_commander = {
+	name = "Merton Beckwith-Smith"
+		picture = "Portrait_Britain_Merton_Beckwith_Smith.dds"
+	traits = { commando }
+	skill = 1
+}

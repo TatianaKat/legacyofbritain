@@ -156,6 +156,29 @@ create_country_leader = {
 
 
 create_corps_commander = {
+	name = "George S. Patton"
+		picture = "Portrait_USA_George_S_Patton.dds"
+	traits = {  trickster panzer_leader }
+	skill = 5
+
+}
+
+create_corps_commander = {
+	name = "Lloyd Fredendall"
+		picture = "Portrait_USA_Lloyd_Fredendall.dds"
+	traits = {  }
+	skill = 2
+
+}
+
+create_corps_commander = {
+	name = "Oscar Griswold"
+		picture = "Portrait_USA_Oscar_Griswold.dds"
+	traits = {   }
+	skill = 2
+}
+
+create_corps_commander = {
 	name = "Luis Farell"
 	portrait_path = "gfx/leaders/South America/Portrait_South_America_Generic_land_2.dds"
 	traits = { }
@@ -174,4 +197,11 @@ create_navy_leader = {
 	portrait_path = "gfx/leaders/South America/Portrait_South_America_Generic_navy_2.dds"
 	traits = { superior_tactician }
 	skill = 3
+}
+
+create_navy_leader = {
+	name = "Arleigh Burke"
+		picture = "Portrait_USA_Arleigh_Burke.dds"
+	traits = { old_guard_navy superior_tactician }
+	skill = 4
 }
