@@ -62,7 +62,7 @@ set_politics = {
 		}
 		
 		market_liberalism = { 
-			popularity = 10
+			popularity = 45
 		}
 		social_conservatism = { 
 			popularity = 15
@@ -73,7 +73,7 @@ set_politics = {
 		}
 		
 		paternal_autocrat = {
-			popularity = 45
+			popularity = 10
 		}
 		
 		radical_nationalism = { 

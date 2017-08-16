@@ -33,7 +33,7 @@
  social_conservatism_subtype_desc:0 "Considering rapid changes to society to be potentially harmful, conservatism espouses tradition and moderate reforms, sometimes advocating a return to old moral values. More often than not it does not fully embrace capitalism either, but rather relies on a sort of protectionism of its own markets and industry."
  authoritarian_government_subtype_desc:0 "More or less a ideologically dead way of rule, the authoritarian government is a colonial of style rule, where day to day governance is handled not as politics, but as bureaucracy. If the economy is stable enough, it is tolerated by the populace, but even the smallest of spark can ignite a wild fire."
  paternal_autocrat_subtype_desc:0 "The Paternal Autocracy is a style of rule from the last century, where a single leader controls a majority of state affairs. Often this person is a King, but they could also be a military dictator or a religious figure. Politically, they are very diverse but often embrace traditional values."
- radical_nationalist_subtype_desc:0 "A strongly centralized regime, with a focus on cultural and ethnical identity, at the expense of others. Often it is highly autocratic and applies totalitarian rule to control its citizens, and relies heavily on depicting 'enemies' as undeseriables at best, threats to the nations safety at worst."
+ radical_nationalism_subtype_desc:0 "A strongly centralized regime, with a focus on cultural and ethnical identity, at the expense of others. Often it is highly autocratic and applies totalitarian rule to control its citizens, and relies heavily on depicting 'enemies' as undeseriables at best, threats to the nations safety at worst."
 
  #British North America
  BNA_communism_party:0 "CP"
