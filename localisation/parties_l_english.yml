@@ -520,6 +520,43 @@
  POL_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
  POL_radical_nationalist_party:0 "RNP"
  POL_radical_nationalist_party_long:0 "Radical Nationalist Party" 
+
+ #Malaysia
+ MAL_communism_party:0 "CP"
+ MAL_communism_party_long:0 "Communist Party"
+ MAL_radical_socialism_party:0 "RSP"
+ MAL_radical_socialism_party_long:0 "Radical Socialist Party"
+ MAL_social_democratic_party:0 "SDP"
+ MAL_social_democratic_party_long:0 "Social Democratic Party"
+ MAL_market_liberalism_party:0 "MLP"
+ MAL_market_liberalism_party_long:0 "Market Liberal Party"
+ MAL_social_conservatism_party:0 "SCP"
+ MAL_social_conservatism_party_long:0 "Social Conservative Party"
+ MAL_authoritarian_government_party:0 "CG"
+ MAL_authoritarian_government_party_long:0 "Colonial Government"
+ MAL_paternal_autocrat_party:0 "PAP"
+ MAL_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
+ MAL_radical_nationalist_party:0 "RNP"
+ MAL_radical_nationalist_party_long:0 "Radical Nationalist Party"  
+ 
+ #British Arabian Mandate
+ BAM_communism_party:0 "CP"
+ BAM_communism_party_long:0 "Communist Party"
+ BAM_radical_socialism_party:0 "RSP"
+ BAM_radical_socialism_party_long:0 "Radical Socialist Party"
+ BAM_social_democratic_party:0 "SDP"
+ BAM_social_democratic_party_long:0 "Social Democratic Party"
+ BAM_market_liberalism_party:0 "MLP"
+ BAM_market_liberalism_party_long:0 "Market Liberal Party"
+ BAM_social_conservatism_party:0 "SCP"
+ BAM_social_conservatism_party_long:0 "Social Conservative Party"
+ BAM_authoritarian_government_party:0 "CG"
+ BAM_authoritarian_government_party_long:0 "Colonial Government"
+ BAM_paternal_autocrat_party:0 "PAP"
+ BAM_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
+ BAM_radical_nationalist_party:0 "RNP"
+ BAM_radical_nationalist_party_long:0 "Radical Nationalist Party" 
+ 
   
  CHI_communism_party:0 "CPC"
  CHI_communism_party_long:0 "Communist Party of China"
@@ -805,10 +842,6 @@
  INS_democratic_party:0 "PNI" #Indonesian National Party founded by Sukarno
  INS_communism_party:0 "PKI" #Partai Komunis Indonesia
  INS_neutrality_party:0 "Democrats" #made up, in reality this guy was a member of PNI 
- MAL_fascism_party:0 "Panoceanic Unionists"
- MAL_democratic_party:0 "United Malays National Organisation" #or UMNO or PEKEMBAR
- MAL_communism_party:0 "Malayan Communist Party" #or MCP
- MAL_neutrality_party:0 "Kesatuan Melayu Muda" #or KMM 
  LAO_fascism_party:0 "Tribal Centralization Party"
  LAO_democratic_party:0 "Democratic Party"
  LAO_communism_party:0 "Pathet Lao"

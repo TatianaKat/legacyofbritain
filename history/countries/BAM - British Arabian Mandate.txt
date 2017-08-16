@@ -83,4 +83,20 @@ create_country_leader = {
 	}
 }
 
+create_corps_commander = {
+	name = "Henry Pownall"
+	picture = "Portrait_Britain_Henry_Pownall.dds"
+	traits = {  trickster }
+	skill = 2
+}
+
+create_navy_leader = {
+	name = "Bernard Rawlings"
+		picture = "Portrait_Britain_Bernard_Rawlings.dds"
+	traits = {  }
+	skill = 1
+}
+
 set_convoys = 100
+
+
