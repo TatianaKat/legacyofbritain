@@ -51,12 +51,6 @@ set_technology = {
 	synth_oil_experiments = 1
 }
 
-create_import = {
-		resource = oil
-		factories = 2
-		exporter = USA
-}
-
 
 set_convoys = 400
 
@@ -65,18 +59,10 @@ if = {
 		has_dlc = "Together for Victory"
 	}
 	set_autonomy = {
-		target = MEN
-		autonomous_state = autonomy_integrated_puppet
-	}
-	set_autonomy = {
 		target = MAN
 		autonomous_state = autonomy_integrated_puppet
 	}
 	else = {
-		set_autonomy = {
-			target = MEN
-			autonomous_state = autonomy_puppet
-		}
 		set_autonomy = {
 			target = MAN
 			autonomous_state = autonomy_puppet
@@ -87,24 +73,43 @@ if = {
 
 set_politics = {
 
-	parties = {
-		democratic = { 
+parties = {
+		communism = { 
 			popularity = 0
 		}
 
-		fascism = {
-			popularity = 100
+		radical_socialism = {
+			popularity = 15
 		}
 		
-		communism = {
+		social_democratic = {
 			popularity = 0
-			#banned = no #default is no
 		}
+		
+		market_liberalism = { 
+			popularity = 15
+		}
+		social_conservatism = { 
+			popularity = 15
+		}
+
+		authoritarian_government = {
+			popularity = 55
+		}
+		
+		paternal_autocrat = {
+			popularity = 0
+		}
+		
+		radical_nationalism = { 
+			popularity = 0
+		}
+		
 	}
 	
-	ruling_party = authoritarian_government
-	last_election = "1936.1.1"
-	election_frequency = 48
+	ruling_party = paternal_autocrat
+	last_election = "1935.6.9"
+	election_frequency = 12
 	elections_allowed = no
 }
 
@@ -114,7 +119,7 @@ create_country_leader = {
 	desc = "POLITICS_Hirohito_DESC"
 	picture = "Portrait_Japan_Hirohito.dds"
 	expire = "1989.1.1"
-	ideology = fascism_ideology
+	ideology = paternal_autocrat_subtype
 	traits = {
 		warrior_code
 	}
@@ -125,7 +130,7 @@ create_country_leader = {
 	desc = "POLITICS_Hirohito_DESC"
 	picture = "GFX_Portrait_kyuichi_tokuda"
 	expire = "1989.1.1"
-	ideology = marxism
+	ideology = radical_socialism_subtype
 	traits = {
 	}
 }
@@ -135,7 +140,7 @@ create_country_leader = {
 	desc = "POLITICS_Hirohito_DESC"
 	picture = "GFX_Portrait_tetsu_katayama"
 	expire = "1989.1.1"
-	ideology = liberalism
+	ideology = market_liberalism_subtype
 	traits = {
 	}
 }
@@ -427,8 +432,6 @@ create_navy_leader = {
 }
 
 
-### VARIANTS ###
-	# 1936 Start #
 		### Carrier Variants
 		create_equipment_variant = {
 			name = "Akagi Class"
@@ -530,44 +533,5 @@ create_navy_leader = {
 			}
 			obsolete = yes
 		}	
-
-	# 1939 Start #			
-	1939.1.1 = {
-		### Carrier Variants
-		create_equipment_variant = {
-			name = "Hiryu Class"
-			type = carrier_2
-			parent_version = 0
-			upgrades = {
-				ship_deckspace_upgrade = 1
-				carrier_armor_upgrade = 0
-				ship_engine_upgrade = 0
-				ship_reliability_upgrade = 1
-			}
-		}
-		### Destroyer Variants
-		#create_equipment_variant = {
-		#	name = "Fubuki Class"
-		#	type = destroyer_1
-		#	parent_version = 0
-		#	upgrades = {
-		#		ship_torpedo_upgrade = 2
-		#		destroyer_engine_upgrade = 4
-		#		ship_ASW_upgrade = 2
-		#		ship_anti_air_upgrade = 2
-		#	}
-		#	obsolete = yes
-		#}	
-		create_equipment_variant = {
-			name = "Kagero Class"
-			type = destroyer_2
-			parent_version = 0
-			upgrades = {
-				ship_torpedo_upgrade = 2
-				destroyer_engine_upgrade = 3
-				ship_ASW_upgrade = 2
-				ship_anti_air_upgrade = 2
-			}
-		}	
-	}
+	
 	
