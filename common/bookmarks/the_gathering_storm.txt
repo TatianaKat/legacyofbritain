@@ -21,7 +21,7 @@ bookmarks = {
 				FRA_revise_versailles
 			}
 		}
-		"USA"={
+		"BNA"={
 			history = "USA_GATHERING_STORM_DESC"
 			ideology = democratic
 			ideas = {

@@ -1,8 +1,8 @@
 #reload countrycolors
 
 GER = {
-	color = HSV { 0.1 0.15 0.4 }
-	color_ui = rgb { 138 155 116 }
+	color = rgb { 154 154 154 }
+	color_ui = rgb { 154 154 154 }
 }
 ENG = {
 	color = rgb { 201 56 93 }
@@ -219,8 +219,8 @@ PRU = {
 	color_ui = rgb { 255 246 255 }
 }
 SAF = {
-	color = rgb { 152 130 191 }
-	color_ui = rgb { 198 169 248 }
+	color = rgb { 191 64 96 }
+	color_ui = rgb { 191 64 96 }
 }
 SAU = {
 	color = rgb { 171 190 152 }
@@ -406,8 +406,8 @@ CAM = {
 }
 
 MAL = {
-	color = rgb { 213  169  121 }
-	color_ui = rgb { 213  169  121 }
+	color = rgb { 242  13  70 }
+	color_ui = rgb { 242  13  70 }
 }
 
 MNT = {
@@ -540,13 +540,13 @@ RUS = {
 }
 
 BAM = {
-	color = rgb { 229 45 20 }
-	color_ui = rgb { 229 45 20 }
+	color = rgb { 242 13 70 }
+	color_ui = rgb { 242 13 70 }
 }
 
 BNA = {
-	color = rgb { 181 22 0 }
-	color_ui = rgb { 181 22 0 }
+	color = rgb { 230 25 76 }
+	color_ui = rgb { 230 25 76 }
 }
 
 ROL = {
@@ -555,6 +555,6 @@ ROL = {
 }
  
 BRI = {
-	color = rgb { 156 58 58 }
-	color_ui = rgb { 156 58 58 }
+	color = rgb { 217 38 83 }
+	color_ui = rgb { 217 38 83 }
 } 
