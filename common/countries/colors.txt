@@ -543,3 +543,18 @@ BAM = {
 	color = rgb { 229 45 20 }
 	color_ui = rgb { 229 45 20 }
 }
+
+BNA = {
+	color = rgb { 181 22 0 }
+	color_ui = rgb { 181 22 0 }
+}
+
+ROL = {
+	color = rgb { 114 184 238 }
+	color_ui = rgb { 114 184 238 }
+}
+ 
+BRI = {
+	color = rgb { 156 58 58 }
+	color_ui = rgb { 156 58 58 }
+} 
