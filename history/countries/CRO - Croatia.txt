@@ -71,6 +71,18 @@ create_country_leader = {
 		#
 	}
 }
+
+create_country_leader = {
+	name = "Josip Broz Tito"
+	desc = "JOSIP_BROZ__TITO_DESC"
+	picture = "Portrait_Yugoslavia_Josip_Broz_Tito.dds"
+	expire = "1965.1.1"
+	ideology = radical_socialism_subtype
+	traits = {
+		#
+	}
+}
+
 create_country_leader = {
 	name = "Stjepan Radić"
 	desc = "STJEPAN_RADIC_DESC"
@@ -80,4 +92,18 @@ create_country_leader = {
 	traits = {
 		#
 	}
+}
+
+create_corps_commander = {
+	name = "Ivan Gošnjak"
+	gfx = GFX_Portrait_yugoslavia_ivan_gosnjak
+	traits = { urban_assault_specialist }
+	skill = 3
+	
+}
+create_navy_leader = {
+	name = "Marijan Polić"
+	gfx = GFX_Portrait_yugoslavia_marijan_polic
+	traits = {  }
+	skill = 2
 }
