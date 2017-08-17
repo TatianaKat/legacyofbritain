@@ -6,7 +6,8 @@ state={
 	}
 
 	history={
-		owner = SPR
+		owner = SEA
+		add_core_of = SEA
 		buildings = {
 			infrastructure = 3
 			1355 = {

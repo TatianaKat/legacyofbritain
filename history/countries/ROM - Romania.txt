@@ -38,22 +38,22 @@ parties = {
 		}
 		
 		social_democratic = {
-			popularity = 25
+			popularity = 10
 		}
 		
 		market_liberalism = { 
-			popularity = 55
+			popularity = 15
 		}
 		social_conservatism = { 
 			popularity = 15
 		}
 
 		authoritarian_government = {
-			popularity = 0
+			popularity = 45
 		}
 		
 		paternal_autocrat = {
-			popularity = 0
+			popularity = 10
 		}
 		
 		radical_nationalism = { 
@@ -62,7 +62,7 @@ parties = {
 		
 	}
 	
-	ruling_party = paternal_autocrat
+	ruling_party = authoritarian_government
 	last_election = "1933.12.20"
 	election_frequency = 48
 	elections_allowed = no
@@ -70,27 +70,17 @@ parties = {
 
 
 
-# create_country_leader = {
-#	name = "Carol II"
-#	desc = "POLITICS_CAROL_II_DESC"
-#	picture = GFX_Portrait_romania_Carol_II			
-#	expire = "1965.1.1"
-#	ideology = paternal_autocrat_subtype
-#	traits = {
-#			
-#	}
-# }
-
 create_country_leader = {
-	name = "Gheorghe Tatarescu"
-	desc = "POLITICS_GHEORGHE_TATARESCU_DESC"
-	picture = "gfx/leaders/ROM/Portrait_Romania_Gheorghe_Tatarescu.dds"
+	name = "Carol II"
+	desc = "POLITICS_CAROL_II_DESC"
+	picture = GFX_Portrait_romania_Carol_II			
 	expire = "1965.1.1"
-	ideology = authoritarian_government_subtype
+	ideology = paternal_autocrat_subtype
 	traits = {
-		#
+			
 	}
-}
+ }
+
 
 create_country_leader = {
 	name = "Constantin Ion Parhon"
@@ -130,7 +120,7 @@ create_country_leader = {
 	desc = "POLITICS_ION_ANTONESCU_DESC"
 	picture = "Portrait_Romania_Ion_Antonescu.dds"
 	expire = "1965.1.1"
-	ideology = paternal_autocrat_subtype
+	ideology = authoritarian_government_subtype
 	traits = {
 		#
 	}

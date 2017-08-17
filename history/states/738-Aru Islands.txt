@@ -3,7 +3,8 @@ state={
 	name="STATE_738"
 
 	history={
-		owner = SPR
+		owner = SEA
+		add_core_of = SEA
 		buildings = {
 			infrastructure = 1
 

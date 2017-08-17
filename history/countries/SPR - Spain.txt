@@ -122,7 +122,118 @@ create_field_marshal = {
 	skill = 2
 }
 
+create_field_marshal = {
+	name = "Francisco Franco"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_2.dds"
+	traits = { defensive_doctrine }
+	skill = 2
+}
 
+create_corps_commander = {
+	name = "Mohamed Meziane"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_2.dds"
+	traits = {  }
+	skill = 2
+}
+
+create_corps_commander = {
+	name = "Vicente Rojo Lluch"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_2.dds"
+	traits = {  }
+	skill = 2
+}
+
+create_corps_commander = {
+	name = "José Maija"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_2.dds"
+	traits = {  }
+	skill = 2
+}
+
+create_corps_commander = {
+	name = "Juan Hernández Saravia"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_2.dds"
+	traits = {  }
+	skill = 2
+}
+
+create_corps_commander = {
+	name = "Emilio Mola"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_2.dds"
+	traits = {  }
+	skill = 2
+}
+
+create_corps_commander = {
+	name = "Emilio Mola"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_2.dds"
+	traits = {  }
+	skill = 2
+}
+
+create_navy_leader = {
+	name = "Takeo Takagi"
+	picture = ""
+	traits = {  }
+	skill = 2
+}
+
+
+create_navy_leader = {
+	name = "Luis González de Ubieta"
+	picture = ""
+	traits = {  }
+	skill = 2
+}
+
+create_navy_leader = {
+	name = "Antonio Azarola y Gresillón"
+	picture = ""
+	traits = {  }
+	skill = 2
+}
+
+create_navy_leader = {
+	name = "Pedro Nieto Antúnez"
+	picture = ""
+	traits = {  }
+	skill = 2
+} 
+
+create_navy_leader = {
+	name = "Francisco Núñez Rodríguez"
+	picture = ""
+	traits = {  }
+	skill = 2
+}
+
+create_navy_leader = {
+	name = "Gabriel Pita da Veiga y Sanz"
+	picture = ""
+	traits = {  }
+	skill = 2
+}
+
+create_navy_leader = {
+	name = "Manuel Vierna Belando"
+	picture = ""
+	traits = {  }
+	skill = 2
+}
+
+create_navy_leader = {
+	name = "Salvador Moreno Fernández"
+	picture = ""
+	traits = {  }
+	skill = 2
+}
+
+create_navy_leader = {
+	name = "Miguel Buiza Fernández-Palacios"
+	picture = ""
+	traits = {  }
+	skill = 2
+}
 ### Ship Variants ###
 
 create_equipment_variant = {

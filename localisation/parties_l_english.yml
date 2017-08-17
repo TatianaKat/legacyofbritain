@@ -1,37 +1,37 @@
 ﻿l_english:
- communism:0 "Communist"
- communism_noun:0 "Communism"
- radical_socialism:0 "Radical Socialist"
+ communism:0 "Maximalism"
+ communism_noun:0 "Maximalism"
+ radical_socialism:0 "Radical Socialism"
  radical_socialism_noun:0 "Radical Socialism"
  social_democratic:0 "Social Democratic"
  social_democratic_noun:0 "Social Democracy"
- market_liberalism:0 "Market Liberal"
+ market_liberalism:0 "Market Liberalism"
  market_liberalism_noun:0 "Market Liberalism"
  social_conservatism:0 "Social Conservative"
  social_conservatism_noun:0 "Social Conservatism"
  authoritarian_government:0 "Authoritarian Rule"
- authoritarian_government_noun:0 "Authoriatian Rule"
- paternal_autocrat:0 "Paternal Autocratic"
+ authoritarian_government_noun:0 "Authoriatian Regime"
+ paternal_autocrat:0 "Paternal Autocracy"
  paternal_autocrat_noun:0 "Paternal Autocracy"
- radical_nationalism:0 "Radical Nationalist"
- radical_nationalism_noun:0 "Radical Nationalist"
+ radical_nationalism:0 "Radical Nationalism"
+ radical_nationalism_noun:0 "Radical Nationalism"
  
- communism_desc:0 "Communism"
- radical_socialism_desc:0 "Radical Socialism"
- social_democratic_desc:0 "Social Democracy"
- market_liberalism_desc:0 "Market Liberalism"
- social_conservatism_desc:0 "Social Conservatism"
- authoritarian_government_desc:0 "Authoritarian Government"
- paternal_autocrat_desc:0 "Paternal Autocracy"
- radical_nationalism_desc:0 "Radical Nationalism"
+ communism_desc:0 "Maximalist"
+ radical_socialism_desc:0 "Radical Socialist"
+ social_democratic_desc:0 "Social Democract"
+ market_liberalism_desc:0 "Market Liberal"
+ social_conservatism_desc:0 "Social Conservative"
+ authoritarian_government_desc:0 "Authoritarian Regime"
+ paternal_autocrat_desc:0 "Paternal Autocrat"
+ radical_nationalism_desc:0 "Radical Nationalist"
 
  
- communism_subtype_desc:0 "Communists believe that a workers dictatorship must be established in order to oust capitalism and establish a communist utopia. Often it relies on a vanguard party, strong centralism and defends itself from inner and outer enemies ferociously, at the expense of civil liberty."
- radical_socialism_subtype_desc:0 "Radical socialists believe that the winds of change move too slowly in the hands of the social democrats, but are also unwilling to apply the same state brutality envisioned by the communist movement. It heavily emphasizes the representation of worker's interests at various Worker's Councils."
- social_democratic_subtype_desc:0 "The social democrats strive for equality and a socialist state by reformist means, democratic socialism aims to abolish or mitigate the effects of capitalism with public mandate."
- market_liberalism_subtype_desc:0 "With a long philosophical tradition of valuing personal liberty, liberalism views safeguarding these rights as the primary function of the state. It also fully embraces capitalism, more often than not ignoring the downsides of it."
+ communism_subtype_desc:0 "Maximalists believe that a workers dictatorship must be established in order to oust capitalism and establish a communist utopia. It is strongly opposed to cooperating with social democrats, and demands a full, 'maximum programme' in the expected revolution: full socialisation of land and factories."
+ radical_socialism_subtype_desc:0 "Radical socialists believe that the winds of change move too slowly in the hands of the social democrats, but are also unwilling to apply the same state brutality envisioned by the maximalist movement. It heavily emphasizes the representation of worker's interests at various Worker's Councils, and is willing to cooperate with social democrats."
+ social_democratic_subtype_desc:0 "The social democrats strive for equality and a socialist state by reformist means, democratic socialism aims to abolish or mitigate the effects of capitalism with public mandate. In some nations they are aligned with and even cooperate with more radical leftist elements, while in others they are considered yet another democratic party."
+ market_liberalism_subtype_desc:0 "With a long philosophical tradition of valuing personal liberty, liberalism views safeguarding these rights as the primary function of the state. It also fully embraces capitalism, more often than not ignoring the downsides of it. In some nations, it may represent simply more centrist alternatives, such as Farmer's and Countryside parties."
  social_conservatism_subtype_desc:0 "Considering rapid changes to society to be potentially harmful, conservatism espouses tradition and moderate reforms, sometimes advocating a return to old moral values. More often than not it does not fully embrace capitalism either, but rather relies on a sort of protectionism of its own markets and industry."
- authoritarian_government_subtype_desc:0 "More or less a ideologically dead way of rule, the authoritarian government is a colonial of style rule, where day to day governance is handled not as politics, but as bureaucracy. If the economy is stable enough, it is tolerated by the populace, but even the smallest of spark can ignite a wild fire."
+ authoritarian_government_subtype_desc:0 "More or less a ideologically dead way of rule, the authoritarian government runs day to day governance of the nation not as politics, but as bureaucracy. If the economy is stable enough, it is tolerated by the populace, but even the smallest of spark can ignite a wild fire."
  paternal_autocrat_subtype_desc:0 "The Paternal Autocracy is a style of rule from the last century, where a single leader controls a majority of state affairs. Often this person is a King, but they could also be a military dictator or a religious figure. Politically, they are very diverse but often embrace traditional values."
  radical_nationalism_subtype_desc:0 "A strongly centralized regime, with a focus on cultural and ethnical identity, at the expense of others. Often it is highly autocratic and applies totalitarian rule to control its citizens, and relies heavily on depicting 'enemies' as undeseriables at best, threats to the nations safety at worst."
 
@@ -50,8 +50,8 @@
  BNA_authoritarian_government_party_long:0 "Colonial Government"
  BNA_paternal_autocrat_party:0 "PAP"
  BNA_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
- BNA_radical_nationalist_party:0 "RNP"
- BNA_radical_nationalist_party_long:0 "Radical Nationalist Party" 
+ BNA_radical_nationalism_party:0 "RNP"
+ BNA_radical_nationalism_party_long:0 "Radical Nationalist Party" 
  
  #Republic of Louisiana
  ROL_communism_party:0 "LCP"
@@ -68,8 +68,8 @@
  ROL_authoritarian_government_party_long:0 "The Military Administration Of New Orleans"
  ROL_paternal_autocrat_party:0 "LC"
  ROL_paternal_autocrat_party_long:0 "Les Chouans"
- ROL_radical_nationalist_party:0 "IFP"
- ROL_radical_nationalist_party_long:0 "Intérêts Français Parti"
+ ROL_radical_nationalism_party:0 "IFP"
+ ROL_radical_nationalism_party_long:0 "Intérêts Français Parti"
  
  #Germany
  GER_communism_party:0 "CP"
@@ -86,8 +86,8 @@
  GER_authoritarian_government_party_long:0 "Colonial Government"
  GER_paternal_autocrat_party:0 "PAP"
  GER_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
- GER_radical_nationalist_party:0 "RNP"
- GER_radical_nationalist_party_long:0 "Radical Nationalist Party" 
+ GER_radical_nationalism_party:0 "RNP"
+ GER_radical_nationalism_party_long:0 "Radical Nationalist Party" 
  
  #England
  ENG_communism_party:0 "CP"
@@ -104,8 +104,8 @@
  ENG_authoritarian_government_party_long:0 "Colonial Government"
  ENG_paternal_autocrat_party:0 "PAP"
  ENG_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
- ENG_radical_nationalist_party:0 "RNP"
- ENG_radical_nationalist_party_long:0 "Radical Nationalist Party" 
+ ENG_radical_nationalism_party:0 "RNP"
+ ENG_radical_nationalism_party_long:0 "Radical Nationalist Party" 
  
  #France
  FRA_communism_party:0 "CP"
@@ -122,8 +122,8 @@
  FRA_authoritarian_government_party_long:0 "Colonial Government"
  FRA_paternal_autocrat_party:0 "PAP"
  FRA_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
- FRA_radical_nationalist_party:0 "RNP"
- FRA_radical_nationalist_party_long:0 "Radical Nationalist Party"
+ FRA_radical_nationalism_party:0 "RNP"
+ FRA_radical_nationalism_party_long:0 "Radical Nationalist Party"
  
  #Spain
  SPR_communism_party:0 "CP"
@@ -140,8 +140,8 @@
  SPR_authoritarian_government_party_long:0 "Colonial Government"
  SPR_paternal_autocrat_party:0 "PAP"
  SPR_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
- SPR_radical_nationalist_party:0 "RNP"
- SPR_radical_nationalist_party_long:0 "Radical Nationalist Party"
+ SPR_radical_nationalism_party:0 "RNP"
+ SPR_radical_nationalism_party_long:0 "Radical Nationalist Party"
  
  #Ireland
  IRE_communism_party:0 "CP"
@@ -158,8 +158,8 @@
  IRE_authoritarian_government_party_long:0 "Colonial Government"
  IRE_paternal_autocrat_party:0 "PAP"
  IRE_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
- IRE_radical_nationalist_party:0 "RNP"
- IRE_radical_nationalist_party_long:0 "Radical Nationalist Party"
+ IRE_radical_nationalism_party:0 "RNP"
+ IRE_radical_nationalism_party_long:0 "Radical Nationalist Party"
  
  #Italy
  ITA_communism_party:0 "CP"
@@ -176,8 +176,8 @@
  ITA_authoritarian_government_party_long:0 "Colonial Government"
  ITA_paternal_autocrat_party:0 "PAP"
  ITA_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
- ITA_radical_nationalist_party:0 "RNP"
- ITA_radical_nationalist_party_long:0 "Radical Nationalist Party"
+ ITA_radical_nationalism_party:0 "RNP"
+ ITA_radical_nationalism_party_long:0 "Radical Nationalist Party"
  
  #Japan
  JAP_communism_party:0 "CP"
@@ -194,8 +194,8 @@
  JAP_authoritarian_government_party_long:0 "Colonial Government"
  JAP_paternal_autocrat_party:0 "PAP"
  JAP_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
- JAP_radical_nationalist_party:0 "RNP"
- JAP_radical_nationalist_party_long:0 "Radical Nationalist Party"
+ JAP_radical_nationalism_party:0 "RNP"
+ JAP_radical_nationalism_party_long:0 "Radical Nationalist Party"
 
  #Mexico
  MEX_communism_party:0 "CP"
@@ -212,8 +212,8 @@
  MEX_authoritarian_government_party_long:0 "Colonial Government"
  MEX_paternal_autocrat_party:0 "PAP"
  MEX_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
- MEX_radical_nationalist_party:0 "RNP"
- MEX_radical_nationalist_party_long:0 "Radical Nationalist Party"
+ MEX_radical_nationalism_party:0 "RNP"
+ MEX_radical_nationalism_party_long:0 "Radical Nationalist Party"
  
  #Baltic States
  BAL_communism_party:0 "CP"
@@ -230,8 +230,8 @@
  BAL_authoritarian_government_party_long:0 "Colonial Government"
  BAL_paternal_autocrat_party:0 "PAP"
  BAL_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
- BAL_radical_nationalist_party:0 "RNP"
- BAL_radical_nationalist_party_long:0 "Radical Nationalist Party"
+ BAL_radical_nationalism_party:0 "RNP"
+ BAL_radical_nationalism_party_long:0 "Radical Nationalist Party"
  
  #Croatia
  CRO_communism_party:0 "CP"
@@ -248,8 +248,8 @@
  CRO_authoritarian_government_party_long:0 "Colonial Government"
  CRO_paternal_autocrat_party:0 "PAP"
  CRO_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
- CRO_radical_nationalist_party:0 "RNP"
- CRO_radical_nationalist_party_long:0 "Radical Nationalist Party"
+ CRO_radical_nationalism_party:0 "RNP"
+ CRO_radical_nationalism_party_long:0 "Radical Nationalist Party"
  
  #Soviet Union
  SOV_communism_party:0 "CP"
@@ -266,8 +266,8 @@
  SOV_authoritarian_government_party_long:0 "Colonial Government"
  SOV_paternal_autocrat_party:0 "PAP"
  SOV_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
- SOV_radical_nationalist_party:0 "RNP"
- SOV_radical_nationalist_party_long:0 "Radical Nationalist Party"
+ SOV_radical_nationalism_party:0 "RNP"
+ SOV_radical_nationalism_party_long:0 "Radical Nationalist Party"
  
  #Free Russia
  RUS_communism_party:0 "CP"
@@ -284,8 +284,8 @@
  RUS_authoritarian_government_party_long:0 "Colonial Government"
  RUS_paternal_autocrat_party:0 "PAP"
  RUS_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
- RUS_radical_nationalist_party:0 "RNP"
- RUS_radical_nationalist_party_long:0 "Radical Nationalist Party"
+ RUS_radical_nationalism_party:0 "RNP"
+ RUS_radical_nationalism_party_long:0 "Radical Nationalist Party"
  
  #Serbia
  SER_communism_party:0 "CP"
@@ -302,8 +302,8 @@
  SER_authoritarian_government_party_long:0 "Colonial Government"
  SER_paternal_autocrat_party:0 "PAP"
  SER_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
- SER_radical_nationalist_party:0 "RNP"
- SER_radical_nationalist_party_long:0 "Radical Nationalist Party"
+ SER_radical_nationalism_party:0 "RNP"
+ SER_radical_nationalism_party_long:0 "Radical Nationalist Party"
  
  #United Provinces
  UNI_communism_party:0 "CP"
@@ -320,8 +320,8 @@
  UNI_authoritarian_government_party_long:0 "Colonial Government"
  UNI_paternal_autocrat_party:0 "PAP"
  UNI_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
- UNI_radical_nationalist_party:0 "RNP"
- UNI_radical_nationalist_party_long:0 "Radical Nationalist Party"
+ UNI_radical_nationalism_party:0 "RNP"
+ UNI_radical_nationalism_party_long:0 "Radical Nationalist Party"
  
  #Australia
  AST_communism_party:0 "CP"
@@ -338,8 +338,8 @@
  AST_authoritarian_government_party_long:0 "Colonial Government"
  AST_paternal_autocrat_party:0 "PAP"
  AST_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
- AST_radical_nationalist_party:0 "RNP"
- AST_radical_nationalist_party_long:0 "Radical Nationalist Party"
+ AST_radical_nationalism_party:0 "RNP"
+ AST_radical_nationalism_party_long:0 "Radical Nationalist Party"
  
  #Austria
  AUS_communism_party:0 "CP"
@@ -356,8 +356,8 @@
  AUS_authoritarian_government_party_long:0 "Colonial Government"
  AUS_paternal_autocrat_party:0 "PAP"
  AUS_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
- AUS_radical_nationalist_party:0 "RNP"
- AUS_radical_nationalist_party_long:0 "Radical Nationalist Party"
+ AUS_radical_nationalism_party:0 "RNP"
+ AUS_radical_nationalism_party_long:0 "Radical Nationalist Party"
  
  #Czechoslovakia
  CZE_communism_party:0 "CP"
@@ -374,8 +374,8 @@
  CZE_authoritarian_government_party_long:0 "Colonial Government"
  CZE_paternal_autocrat_party:0 "PAP"
  CZE_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
- CZE_radical_nationalist_party:0 "RNP"
- CZE_radical_nationalist_party_long:0 "Radical Nationalist Party"
+ CZE_radical_nationalism_party:0 "RNP"
+ CZE_radical_nationalism_party_long:0 "Radical Nationalist Party"
 
  #Hungary
  HUN_communism_party:0 "CP"
@@ -392,8 +392,8 @@
  HUN_authoritarian_government_party_long:0 "Colonial Government"
  HUN_paternal_autocrat_party:0 "PAP"
  HUN_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
- HUN_radical_nationalist_party:0 "RNP"
- HUN_radical_nationalist_party_long:0 "Radical Nationalist Party" 
+ HUN_radical_nationalism_party:0 "RNP"
+ HUN_radical_nationalism_party_long:0 "Radical Nationalist Party" 
 
  #Romania
  ROM_communism_party:0 "CP"
@@ -410,8 +410,8 @@
  ROM_authoritarian_government_party_long:0 "Colonial Government"
  ROM_paternal_autocrat_party:0 "PAP"
  ROM_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
- ROM_radical_nationalist_party:0 "RNP"
- ROM_radical_nationalist_party_long:0 "Radical Nationalist Party"  
+ ROM_radical_nationalism_party:0 "RNP"
+ ROM_radical_nationalism_party_long:0 "Radical Nationalist Party"  
  
  #South Africa
  SAF_communism_party:0 "CP"
@@ -428,8 +428,8 @@
  SAF_authoritarian_government_party_long:0 "Colonial Government"
  SAF_paternal_autocrat_party:0 "PAP"
  SAF_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
- SAF_radical_nationalist_party:0 "RNP"
- SAF_radical_nationalist_party_long:0 "Radical Nationalist Party" 
+ SAF_radical_nationalism_party:0 "RNP"
+ SAF_radical_nationalism_party_long:0 "Radical Nationalist Party" 
  
  #British Ireland
  BRI_communism_party:0 "CP"
@@ -446,8 +446,8 @@
  BRI_authoritarian_government_party_long:0 "Colonial Government"
  BRI_paternal_autocrat_party:0 "PAP"
  BRI_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
- BRI_radical_nationalist_party:0 "RNP"
- BRI_radical_nationalist_party_long:0 "Radical Nationalist Party" 
+ BRI_radical_nationalism_party:0 "RNP"
+ BRI_radical_nationalism_party_long:0 "Radical Nationalist Party" 
  
  #United States of America
  USA_communism_party:0 "CP"
@@ -464,8 +464,8 @@
  USA_authoritarian_government_party_long:0 "Colonial Government"
  USA_paternal_autocrat_party:0 "PAP"
  USA_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
- USA_radical_nationalist_party:0 "RNP"
- USA_radical_nationalist_party_long:0 "Radical Nationalist Party" 
+ USA_radical_nationalism_party:0 "RNP"
+ USA_radical_nationalism_party_long:0 "Radical Nationalist Party" 
  
  #Bulgaria
  BUL_communism_party:0 "CP"
@@ -482,8 +482,8 @@
  BUL_authoritarian_government_party_long:0 "Colonial Government"
  BUL_paternal_autocrat_party:0 "PAP"
  BUL_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
- BUL_radical_nationalist_party:0 "RNP"
- BUL_radical_nationalist_party_long:0 "Radical Nationalist Party" 
+ BUL_radical_nationalism_party:0 "RNP"
+ BUL_radical_nationalism_party_long:0 "Radical Nationalist Party" 
  
  #Greece
  GRE_communism_party:0 "CP"
@@ -500,8 +500,8 @@
  GRE_authoritarian_government_party_long:0 "Colonial Government"
  GRE_paternal_autocrat_party:0 "PAP"
  GRE_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
- GRE_radical_nationalist_party:0 "RNP"
- GRE_radical_nationalist_party_long:0 "Radical Nationalist Party" 
+ GRE_radical_nationalism_party:0 "RNP"
+ GRE_radical_nationalism_party_long:0 "Radical Nationalist Party" 
  
  #Poland
  POL_communism_party:0 "CP"
@@ -518,8 +518,8 @@
  POL_authoritarian_government_party_long:0 "Colonial Government"
  POL_paternal_autocrat_party:0 "PAP"
  POL_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
- POL_radical_nationalist_party:0 "RNP"
- POL_radical_nationalist_party_long:0 "Radical Nationalist Party" 
+ POL_radical_nationalism_party:0 "RNP"
+ POL_radical_nationalism_party_long:0 "Radical Nationalist Party" 
 
  #Malaysia
  MAL_communism_party:0 "CP"
@@ -536,8 +536,8 @@
  MAL_authoritarian_government_party_long:0 "Colonial Government"
  MAL_paternal_autocrat_party:0 "PAP"
  MAL_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
- MAL_radical_nationalist_party:0 "RNP"
- MAL_radical_nationalist_party_long:0 "Radical Nationalist Party"  
+ MAL_radical_nationalism_party:0 "RNP"
+ MAL_radical_nationalism_party_long:0 "Radical Nationalist Party"  
  
  #British Arabian Mandate
  BAM_communism_party:0 "CP"
@@ -554,10 +554,117 @@
  BAM_authoritarian_government_party_long:0 "Colonial Government"
  BAM_paternal_autocrat_party:0 "PAP"
  BAM_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
- BAM_radical_nationalist_party:0 "RNP"
- BAM_radical_nationalist_party_long:0 "Radical Nationalist Party" 
+ BAM_radical_nationalism_party:0 "RNP"
+ BAM_radical_nationalism_party_long:0 "Radical Nationalist Party" 
  
-  
+ #Norway
+ NOR_communism_party:0 "CP"
+ NOR_communism_party_long:0 "Communist Party"
+ NOR_radical_socialism_party:0 "RSP"
+ NOR_radical_socialism_party_long:0 "Radical Socialist Party"
+ NOR_social_democratic_party:0 "SDP"
+ NOR_social_democratic_party_long:0 "Social Democratic Party"
+ NOR_market_liberalism_party:0 "MLP"
+ NOR_market_liberalism_party_long:0 "Market Liberal Party"
+ NOR_social_conservatism_party:0 "SCP"
+ NOR_social_conservatism_party_long:0 "Social Conservative Party"
+ NOR_authoritarian_government_party:0 "CG"
+ NOR_authoritarian_government_party_long:0 "Colonial Government"
+ NOR_paternal_autocrat_party:0 "PAP"
+ NOR_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
+ NOR_radical_nationalism_party:0 "RNP"
+ NOR_radical_nationalism_party_long:0 "Radical Nationalist Party" 
+ 
+ #Sweden
+ SWE_communism_party:0 "CP"
+ SWE_communism_party_long:0 "Communist Party"
+ SWE_radical_socialism_party:0 "RSP"
+ SWE_radical_socialism_party_long:0 "Radical Socialist Party"
+ SWE_social_democratic_party:0 "SDP"
+ SWE_social_democratic_party_long:0 "Social Democratic Party"
+ SWE_market_liberalism_party:0 "MLP"
+ SWE_market_liberalism_party_long:0 "Market Liberal Party"
+ SWE_social_conservatism_party:0 "SCP"
+ SWE_social_conservatism_party_long:0 "Social Conservative Party"
+ SWE_authoritarian_government_party:0 "CG"
+ SWE_authoritarian_government_party_long:0 "Colonial Government"
+ SWE_paternal_autocrat_party:0 "PAP"
+ SWE_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
+ SWE_radical_nationalism_party:0 "RNP"
+ SWE_radical_nationalism_party_long:0 "Radical Nationalist Party" 
+
+ #Finland
+ FIN_communism_party:0 "CP"
+ FIN_communism_party_long:0 "Communist Party"
+ FIN_radical_socialism_party:0 "RSP"
+ FIN_radical_socialism_party_long:0 "Radical Socialist Party"
+ FIN_social_democratic_party:0 "SDP"
+ FIN_social_democratic_party_long:0 "Social Democratic Party"
+ FIN_market_liberalism_party:0 "MLP"
+ FIN_market_liberalism_party_long:0 "Market Liberal Party"
+ FIN_social_conservatism_party:0 "SCP"
+ FIN_social_conservatism_party_long:0 "Social Conservative Party"
+ FIN_authoritarian_government_party:0 "CG"
+ FIN_authoritarian_government_party_long:0 "Colonial Government"
+ FIN_paternal_autocrat_party:0 "PAP"
+ FIN_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
+ FIN_radical_nationalism_party:0 "RNP"
+ FIN_radical_nationalism_party_long:0 "Radical Nationalist Party"  
+
+ #Scandinavia
+ SCA_communism_party:0 "CP"
+ SCA_communism_party_long:0 "Communist Party"
+ SCA_radical_socialism_party:0 "RSP"
+ SCA_radical_socialism_party_long:0 "Radical Socialist Party"
+ SCA_social_democratic_party:0 "SDP"
+ SCA_social_democratic_party_long:0 "Social Democratic Party"
+ SCA_market_liberalism_party:0 "MLP"
+ SCA_market_liberalism_party_long:0 "Market Liberal Party"
+ SCA_social_conservatism_party:0 "SCP"
+ SCA_social_conservatism_party_long:0 "Social Conservative Party"
+ SCA_authoritarian_government_party:0 "CG"
+ SCA_authoritarian_government_party_long:0 "Colonial Government"
+ SCA_paternal_autocrat_party:0 "PAP"
+ SCA_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
+ SCA_radical_nationalism_party:0 "RNP"
+ SCA_radical_nationalism_party_long:0 "Radical Nationalist Party" 
+ 
+ #Denmark
+ DEN_communism_party:0 "CP"
+ DEN_communism_party_long:0 "Communist Party"
+ DEN_radical_socialism_party:0 "RSP"
+ DEN_radical_socialism_party_long:0 "Radical Socialist Party"
+ DEN_social_democratic_party:0 "SDP"
+ DEN_social_democratic_party_long:0 "Social Democratic Party"
+ DEN_market_liberalism_party:0 "MLP"
+ DEN_market_liberalism_party_long:0 "Market Liberal Party"
+ DEN_social_conservatism_party:0 "SCP"
+ DEN_social_conservatism_party_long:0 "Social Conservative Party"
+ DEN_authoritarian_government_party:0 "CG"
+ DEN_authoritarian_government_party_long:0 "Colonial Government"
+ DEN_paternal_autocrat_party:0 "PAP"
+ DEN_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
+ DEN_radical_nationalism_party:0 "RNP"
+ DEN_radical_nationalism_party_long:0 "Radical Nationalist Party" 
+
+ #Portugal
+ POR_communism_party:0 "CP"
+ POR_communism_party_long:0 "Communist Party"
+ POR_radical_socialism_party:0 "RSP"
+ POR_radical_socialism_party_long:0 "Radical Socialist Party"
+ POR_social_democratic_party:0 "SDP"
+ POR_social_democratic_party_long:0 "Social Democratic Party"
+ POR_market_liberalism_party:0 "MLP"
+ POR_market_liberalism_party_long:0 "Market Liberal Party"
+ POR_social_conservatism_party:0 "SCP"
+ POR_social_conservatism_party_long:0 "Social Conservative Party"
+ POR_authoritarian_government_party:0 "CG"
+ POR_authoritarian_government_party_long:0 "Colonial Government"
+ POR_paternal_autocrat_party:0 "PAP"
+ POR_paternal_autocrat_party_long:0 "Paternal Autocrat Party"
+ POR_radical_nationalism_party:0 "RNP"
+ POR_radical_nationalism_party_long:0 "Radical Nationalist Party"  
+ 
  CHI_communism_party:0 "CPC"
  CHI_communism_party_long:0 "Communist Party of China"
  CHI_democratic_party:0 "China Democratic League"
@@ -565,13 +672,7 @@
  CHI_fascism_party_long:0 "Reorganized National Government of the Republic of China"
  CHI_neutrality_party:0 "Kuomintang"
  XSM_neutrality_party:0 "Ma Clique"
- POR_neutrality_party:0 "Estado Novo"
- POR_communism_party:0 "PCP"
- POR_communism_party_long:0 "Partido Comunista Português"
- POR_democratic_party:0 "PD"
- POR_democratic_party_long:0 "Partido Democrático"
- POR_fascism_party:0 "MNS"
- POR_fascism_party_long:0 "Movimento Nacional-Sindicalista"
+
  LIT_neutrality_party:0 "LTS"
  LIT_neutrality_party_long:0 "Lietuviu Tautininku Sajunga"
  LIT_fascism_party:0 "Geležinis Vilkas"

@@ -14,7 +14,8 @@ state={
 
 	history=
 	{
-		owner = SPR
+		owner = SEA
+		add_core_of = SEA
 		victory_points = {
 			4652 1 
 		}

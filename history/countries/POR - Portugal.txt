@@ -1,0 +1,109 @@
+﻿capital = 112
+
+oob = "POR_1936"
+
+set_research_slots = 3
+
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	gw_artillery = 1
+	tech_support = 1		
+	tech_engineers = 1
+	early_fighter = 1
+	early_bomber = 1
+	CAS1 = 1
+	early_submarine = 1
+	basic_submarine = 1
+	early_destroyer = 1
+	transport = 1
+}
+
+
+set_politics = {
+	parties = {
+		communism = { 
+			popularity = 5
+		}
+
+		radical_socialism = {
+			popularity = 5
+		}
+		
+		social_democratic = {
+			popularity = 10
+		}
+		
+		market_liberalism = { 
+			popularity = 10
+		}
+		social_conservatism = { 
+			popularity = 6
+		}
+
+		authoritarian_government = {
+			popularity = 5
+		}
+		
+		paternal_autocrat = {
+			popularity = 50
+		}
+		
+		radical_nationalism = { 
+			popularity = 10
+		}
+	}
+	
+	ruling_party = paternal_autocrat
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = no		
+}
+
+
+set_convoys = 100
+set_national_unity = 0.8
+
+
+create_country_leader = {
+	name = "António de Oliveira Salazar"
+	desc = "POLITICS_ANTÓNIO_DE_OLIVEIRA_SALAZAR_DESC"
+	picture = "Portrait_Portugal_Antonio_de_Oliveira_Salazar.dds"
+	expire = "1965.1.1"
+	ideology = paternal_autocrat_subtype
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Bento Gonçalves"
+	desc = "POLITICS_BENTO_GONCALVES_DESC"
+	picture = "gfx/leaders/South America/Portrait_South_America_Generic_land_5.dds"
+	expire = "1965.1.1"
+	ideology = radical_socialism_subtype
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Francisco de Barcelos Rolão Preto"
+	desc = "POLITICS_FRANSISCO_BARCELOS_ROLAO_PRETO_DESC"
+	picture = "gfx/leaders/South America/Portrait_South_America_Generic_land_4.dds"
+	expire = "1965.1.1"
+	ideology = radical_nationalism_subtype
+	traits = {
+		#
+	}
+}
+
+
+create_corps_commander = {
+	name = "José Vicente de Freitas"
+	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
+	traits = {  }
+	skill = 3
+
+}
+
