@@ -250,6 +250,9 @@
  BWA_radical_nationalism_ADJ:0 "British West African "
  BWA_radical_nationalism_DEF:0 "British West Africa"
  
+ CAU_authoritarian_government:0 "Caucasian Federation"
+ CAU_authoritarian_government_ADJ:0 "Caucasian "
+ CAU_authoritarian_government_DEF:0 "The Caucasian Federation" 
  
  CRO_communism:0 "Socialist Republic of Croatia"
  CRO_communism_ADJ:0 "Croatian "

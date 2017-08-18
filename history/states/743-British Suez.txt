@@ -11,10 +11,12 @@ state={
 			
                         1155 = {
 				naval_base = 10
+				bunker = 5
 			}
 
                         12049 = {
 				naval_base = 10
+				bunker = 5
 			}
 
 		}
