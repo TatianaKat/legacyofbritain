@@ -1,0 +1,55 @@
+﻿capital = 298
+
+# OOB = "ALB_1936"
+
+set_technology = {
+	infantry_weapons = 1
+	tech_support = 1
+	tech_recon = 1
+}
+
+set_politics = {
+
+	parties = {
+		communism = { 
+			popularity = 0
+		}
+
+		radical_socialism = {
+			popularity = 5
+		}
+		
+		social_democratic = {
+			popularity = 10
+		}
+		
+		market_liberalism = { 
+			popularity = 15
+		}
+		social_conservatism = { 
+			popularity = 15
+		}
+
+		authoritarian_government = {
+			popularity = 45
+		}
+		
+		paternal_autocrat = {
+			popularity = 5
+		}
+		
+		radical_nationalism = { 
+			popularity = 5
+		}
+		
+	}
+	
+	ruling_party = authoritarian_government
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_convoys = 100
+
+
