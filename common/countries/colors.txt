@@ -567,4 +567,19 @@ SCA = {
 SEA = {
 	color = rgb { 226 188 73 }
 	color_ui = rgb { 226 188 73 }
-} 
+}
+
+BCA = {
+	color = rgb { 179 77 102 }
+	color_ui = rgb { 179 77 102 }
+}
+
+BWA = {
+	color = rgb { 166 89 108 }
+	color_ui = rgb { 166 89 108 }
+}
+
+BEG = {
+	color = rgb { 153 102 115 }
+	color_ui = rgb { 153 102 115 }
+}
