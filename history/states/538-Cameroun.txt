@@ -9,7 +9,8 @@ state={
 		rubber=5
 	}
 	history={
-		owner = ENG
+		owner = BCA
+                add_core_of = BCA
 		buildings = {
 			infrastructure = 1
 		}

@@ -4,7 +4,8 @@ state={
 	name="STATE_446"
 
 	history={
-		owner = ENG
+		owner = BEG
+                add_core_of = BEG
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1

@@ -8,7 +8,8 @@ state={
 	impassable = yes
 
 	history={
-		owner = ENG
+		owner = BWA
+                add_core_of = BWA
 		buildings = {
 			infrastructure = 0
 		}

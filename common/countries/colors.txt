@@ -558,3 +558,13 @@ BRI = {
 	color = rgb { 217 38 83 }
 	color_ui = rgb { 217 38 83 }
 } 
+
+SCA = {
+	color = rgb { 9 90 153 }
+	color_ui = rgb { 9 90 153 }
+}
+
+SEA = {
+	color = rgb { 226 188 73 }
+	color_ui = rgb { 226 188 73 }
+} 

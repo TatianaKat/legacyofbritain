@@ -11,7 +11,8 @@ state={
 	}
 
 	history={
-		owner = ENG
+		owner = BCA
+                add_core_of = BCA
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
