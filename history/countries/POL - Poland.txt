@@ -30,11 +30,11 @@ set_politics = {
 
 	parties = {
 		communism = { 
-			popularity = 20
+			popularity = 5
 		}
 
 		radical_socialism = {
-			popularity = 60
+			popularity = 5
 		}
 		
 		social_democratic = {
@@ -45,15 +45,15 @@ set_politics = {
 			popularity = 0
 		}
 		social_conservatism = { 
-			popularity = 0
+			popularity = 10
 		}
 
 		authoritarian_government = {
-			popularity = 0
+			popularity = 50
 		}
 		
 		paternal_autocrat = {
-			popularity = 0
+			popularity = 10
 		}
 		
 		radical_nationalism = { 

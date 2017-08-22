@@ -48,7 +48,7 @@ parties = {
 		}
 
 		authoritarian_government = {
-			popularity = 55
+			popularity = 00
 		}
 		
 		paternal_autocrat = {
@@ -56,7 +56,7 @@ parties = {
 		}
 		
 		radical_nationalism = { 
-			popularity = 0
+			popularity = 55
 		}
 		
 	}
